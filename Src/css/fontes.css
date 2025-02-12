@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Love girl';
+    src: url(../fontes/Lovely\ Valentine\ Sans.otf)
+    format(opentype);
+    
+    
+}
+
+h1 {
+    font-family: Love girl;
+}
+
+@font-face {
+    font-family: 'Fontes';
+    src: url(../fontes/Magison.otf)
+    format(opentype);
+}
+
+h2{
+    font-family: fontes;
+}
+
+font-face {
+    font-family: 'descricao';
+    src: url(../fontes/CreatoDisplay-BlackItalic.otf) format(opentype);
+}
+
+p{
+    font-family: 'descricao';
+     
+}
+
+

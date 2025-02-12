@@ -1,0 +1,34 @@
+body{
+    background:url('../imagens/fundo-wallpaper.png') no-repeat center center fixed;
+    background-size: 100% auto;
+    background-size: cover;
+}
+
+.foto-1.selecionado{
+    opacity: 1;
+    justify-content: center;
+    
+}
+
+.slider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
+}
+
+.cabecalho{
+    color: #DC143C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    
+}
+
+.informacao{
+    color: #836FFF;
+    font-size: 28px;
+    box-shadow: 10px 3px 10px #836FFF;
+    gap: 10px;
+}
